@@ -107,7 +107,7 @@ In addition to using **ALL** pairs of wires, each pair is `BI-DIRECTIONAL`. This
 
 ![Bi-directional pairs for 1000BASE-T and 10GBASE-T Cables](docs/bidirectional_1000_10g_baset.png)
 
-## Fiber-optic UTP Cables
+## Fiber-optic Cables
 
 ![](docs/sfp_transceiver.png)
 
